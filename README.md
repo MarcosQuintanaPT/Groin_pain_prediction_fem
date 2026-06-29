@@ -5,12 +5,11 @@ Link to paper: link to be provided after paper is published
 
 📂Files
 Contains all the R scripts for the project.
-- `exploration.R`: Descriptive analysis of baseline characteristics and comparison between injured and uninjured groups.
-- `univariatemods.R`: Training and testing of univariate models for the main outcome (any groin problem).
-- `univariatemods_tl.R`: Training and testing of univariate models for the secondary outcome (time-loss groin problem).
+- `01_descriptive_and_association_analysis.R`: Descriptive analysis of baseline characteristics and comparison between injured and uninjured groups.
+- `02_univariate_prediction_models`: Training and testing of univariate models for the main outcome (any groin problem).
 
 
 Includes the dataset required to run the analyses.
-- `dfgpf.xlsx`: The dataframe used for all analyses.
+- `df_phys_ther_sport.xlsx`: The dataframe used for all analyses.
 
  📧Please contact marcosquintana99@gmail.com for any issues or questions
