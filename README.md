@@ -1,7 +1,7 @@
 # Prediction of groin problems using machine learning in female football
 This repo contains data and code for the project titled "Groin pain prediction in female football"
 
-Link to paper: link to be provided after paper is published
+Link to paper: https://doi.org/10.1016/j.ptsp.2026.101951
 
 📂Files
 Contains all the R scripts for the project.
